@@ -1,0 +1,6 @@
+Map_file: map.txt
+Tileset_name: data/bootleg-tileset.bmp
+Map_W: 50
+Map_H: 50
+Screen_W: 720
+Screen_H: 480
